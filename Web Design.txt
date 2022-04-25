@@ -1,0 +1,22 @@
+-Categories
+    -Welcome
+        -Introduction
+        -Banners
+            -Articles
+            -GDD
+            -Project Updates
+            -Social and Contact
+        -Images
+    -Article
+        -"How I got to this point"
+    -GDD
+        -"Overview of the Game"
+    -Project Updates
+        -Weekly/Monthly Updates
+        -What engine that's used
+        
+    -Social and Contact
+        -Email
+        -Instagram
+        -Twitter
+
