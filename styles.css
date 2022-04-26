@@ -41,7 +41,7 @@ body {
     background-color: darkred;
     color: white;
     height: 100%;
-
+    
 }
 
 body a {
@@ -52,6 +52,8 @@ body a {
 section {
     min-height: 100%;
     margin: 0 auto -50px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 footer {
